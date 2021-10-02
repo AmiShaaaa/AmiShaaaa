@@ -1,4 +1,4 @@
-# Hi I'm Amisha 👋 
+# Hi I'm Amisha <3 👋 
 ### I'm a CSE sophomore at [JIIT, Noida](https://www.jiit.ac.in)
 
 Highly enthusiastic about being good at everything. Research and innovation excites me a lot.
