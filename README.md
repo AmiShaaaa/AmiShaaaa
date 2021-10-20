@@ -1,5 +1,5 @@
 # Hi I'm Amisha 👋 
-### I'm a CSE sophomore at [JIIT, Noida](https://www.jiit.ac.in)
+### CSE Pre-Final Year at [JIIT, Noida](https://www.jiit.ac.in)
 
 Highly enthusiastic about being good at everything. Research and innovation excites me a lot.
 
