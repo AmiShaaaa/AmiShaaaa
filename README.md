@@ -38,7 +38,7 @@ Highly enthusiastic about being good at everything. Research and innovation exci
 </a>
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ShriyanshiSrivastava&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=AmiShaaaa&theme=darkmode">
 </p>
 
 <div>
