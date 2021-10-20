@@ -37,10 +37,6 @@ Highly enthusiastic about being good at everything. Research and innovation exci
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmiShaaaa&show_icons=true&theme=tokyonight&hide_border=true" alt="Amisha's github stats"/>
 </a>
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=AmiShaaaa&theme=darkmode">
-</p>
-
 <div>
 </div>
 
