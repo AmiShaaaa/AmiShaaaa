@@ -3,7 +3,7 @@
 
 Highly enthusiastic about being good at everything. Research and innovation excites me a lot.
 
-<a href="https://www.linkedin.com/in/amisha0607/">
+<!-- <a href="https://www.linkedin.com/in/amisha0607/">
   <img align="left" alt="Amisha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/AmiShaaaa">
@@ -11,7 +11,12 @@ Highly enthusiastic about being good at everything. Research and innovation exci
 
 <a href="https://www.instagram.com/__amisharma__/">
   <img align="left" alt="Amisha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+</a> -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/amisha0607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amisha0607" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amisha0607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amisha0607" height="30" width="40" /></a>
+</p>
 </br>
 
 ### I use <img width="20" height="20" alt="Git" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/windows8/windows8-original.svg" /> <img width="20" height="20" alt="Git" width="26px" src="https://github.com/Ujjwal-Shekhawat/Ujjwal-Shekhawat/blob/master/icons/ubuntu/ubuntu-plain.svg" />
