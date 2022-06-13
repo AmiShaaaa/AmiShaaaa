@@ -1,7 +1,10 @@
 # Hi I'm Amisha 👋 
 ### CSE Pre-Final Year at [JIIT, Noida](https://www.jiit.ac.in)
 
-Highly enthusiastic about being good at everything. Research and innovation excites me a lot.
+Highly enthusiastic about being good at everything. Research and innovation excites me a lot. 
+input("coffee")                                         
+if coffee == true:
+      print(product)
 
 <!-- <a href="https://www.linkedin.com/in/amisha0607/">
   <img align="left" alt="Amisha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
