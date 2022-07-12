@@ -11,7 +11,7 @@ if coffee == true: </br>
 
 - ✨ Reach me at **amisharma0607@gmail.com**
 
-- ⚡ Small tip  **Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live..**
+- ⚡ Small tip - **Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live..**
 
 <!-- <a href="https://www.linkedin.com/in/amisha0607/">
   <img align="left" alt="Amisha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
